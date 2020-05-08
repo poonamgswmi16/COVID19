@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/poonamgswmi16/COVID19/static/css/2.9daf9c49.chunk.css"
   },
   {
-    "revision": "a3449ece2bed988d840a7bd8b21a25c6",
+    "revision": "ef74a44346d89b7cb872a23816dcfcad",
     "url": "/poonamgswmi16/COVID19/index.html"
   }
 ];
