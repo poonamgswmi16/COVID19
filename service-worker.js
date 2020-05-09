@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/poonamgswmi16/COVID19/precache-manifest.4ee94827900e0f2121c22eb04d13d573.js"
+  "*http://github.com/poonamgswmi16/COVID19*/precache-manifest.01018a6cafa80769af411832c508513c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/poonamgswmi16/COVID19/index.html", {
+workbox.routing.registerNavigationRoute("*http://github.com/poonamgswmi16/COVID19*/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
