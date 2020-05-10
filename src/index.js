@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './Components/App.component';
 import MainPageComponent from './Components/MainPage.component';
+import { BrowserRouter } from 'react-router-dom'
 
 
-ReactDOM.render(<MainPageComponent  />,document.getElementById('root'));
+ReactDOM.render((
+    <BrowserRouter>
+      <MainPageComponent />
+    </BrowserRouter>
+  ), document.getElementById('root'))
