@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/COVID19/static/js/runtime~main.88308df9.js"
   },
   {
-    "revision": "4dafb92f74e822574a7a",
-    "url": "/COVID19/static/js/main.624b6e25.chunk.js"
+    "revision": "af86783fa4b4294e1563",
+    "url": "/COVID19/static/js/main.90be4196.chunk.js"
   },
   {
     "revision": "aeee558fa1a46f9617cf",
     "url": "/COVID19/static/js/2.97d7c5d4.chunk.js"
   },
   {
-    "revision": "4dafb92f74e822574a7a",
+    "revision": "af86783fa4b4294e1563",
     "url": "/COVID19/static/css/main.82d5793e.chunk.css"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/COVID19/static/css/2.9daf9c49.chunk.css"
   },
   {
-    "revision": "1487e7e2c95bbe99b8baedf7f25b0ae6",
+    "revision": "e88e63ab81f6a7345a21ddb80f52e0fb",
     "url": "/COVID19/index.html"
   }
 ];
